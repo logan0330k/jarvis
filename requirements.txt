@@ -1,0 +1,12 @@
+pycodestyle==2.6.0
+pyflakes==2.2.0
+PyGetWindow==0.0.9
+pyjokes==0.6.0
+pylint==2.6.0
+PyMsgBox==1.0.9
+pyperclip==1.8.1
+pypiwin32==223
+PyQt5
+pyqt5-plugins
+PyQt5-sip
+pyqt5-tools
